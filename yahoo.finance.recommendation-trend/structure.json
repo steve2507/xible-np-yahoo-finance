@@ -1,5 +1,6 @@
 {
   "name": "yahoo.finance.recommendation-trend",
+  "description": "Retrieves the recommendation trend for one or more given symbols.",
   "inputs": {
     "symbols": {
       "type": "string"

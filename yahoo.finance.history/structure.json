@@ -1,6 +1,6 @@
 {
   "name": "yahoo.finance.history",
-  "description": "",
+  "description": "Retrieves historical pricing data for one or more given symbols.",
   "inputs": {
     "symbols": {
       "type": "string"

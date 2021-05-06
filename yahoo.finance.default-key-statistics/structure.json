@@ -1,5 +1,6 @@
 {
   "name": "yahoo.finance.default-key-statistics",
+  "description": "Retrieves key statistics for one or more given symbols.",
   "inputs": {
     "symbols": {
       "type": "string"

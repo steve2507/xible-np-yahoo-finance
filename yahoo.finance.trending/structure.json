@@ -1,5 +1,6 @@
 {
   "name": "yahoo.finance.trending",
+  "description": "Retrieves trend information for one or more given symbols.",
   "outputs": {
     "symbols": {
       "type": "string"

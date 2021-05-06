@@ -1,5 +1,6 @@
 {
   "name": "yahoo.finance.quote",
+  "description": "Retrieves quote information for one or more given symbols.",
   "inputs": {
     "symbols": {
       "type": "string"

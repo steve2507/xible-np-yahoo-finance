@@ -1,6 +1,6 @@
 {
   "name": "xible-np-yahoo-finance",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nodepack for XIBLE to fetch data from the Yahoo Finance API.",
   "dependencies": {
     "yahoo-finance2": "^1.10.4"
