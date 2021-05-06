@@ -1,0 +1,14 @@
+{
+  "name": "yahoo.finance.history",
+  "description": "",
+  "inputs": {
+    "symbols": {
+      "type": "string"
+    }
+  },
+  "outputs": {
+    "data": {
+      "type": "object"
+    }
+  }
+}

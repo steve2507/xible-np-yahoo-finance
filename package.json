@@ -1,0 +1,24 @@
+{
+  "name": "xible-np-yahoo-finance",
+  "version": "0.1.0",
+  "description": "Nodepack for XIBLE to fetch data from the Yahoo Finance API.",
+  "dependencies": {
+    "yahoo-finance2": "^1.10.4"
+  },
+  "scripts": {
+    "prepublishOnly": "npm shrinkwrap --only=prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steve2507/xible-np-yahoo-finance"
+  },
+  "bugs": {
+    "url": "https://github.com/steve2507/xible-np-yahoo-finance/issues"
+  },
+  "keywords": [
+    "xible",
+    "yahoo",
+    "finance",
+    "nodepack"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "yahoo.finance.default-key-statistics",
+  "inputs": {
+    "symbols": {
+      "type": "string"
+    }
+  },
+  "outputs": {
+    "data": {
+      "type": "object",
+      "description": "Raw output data of the Yahoo Finance API for retrieving the key statistics."
+    }
+  }
+}
